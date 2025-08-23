@@ -1,0 +1,8 @@
+# Excutable files
+*.out
+
+# Vscode settings
+.vscode
+
+# Macos
+.DS_Store
